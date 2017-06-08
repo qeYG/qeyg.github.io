@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-06-08T02:12:00.370Z</updated>
+  <updated>2017-06-08T14:43:14.536Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,65 +16,23 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://yoursite.com/2017/06/08/test/"/>
-    <id>http://yoursite.com/2017/06/08/test/</id>
-    <published>2017-06-08T02:08:04.782Z</published>
-    <updated>2017-06-08T02:12:00.370Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="my-new-article"><a href="#my-new-article" class="headerlink" title="my new article"></a>my new article</h1><p>Well, It’s a test. </p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;my-new-article&quot;&gt;&lt;a href=&quot;#my-new-article&quot; class=&quot;headerlink&quot; title=&quot;my new article&quot;&gt;&lt;/a&gt;my new article&lt;/h1&gt;&lt;p&gt;Well, It’s a test. &lt;/p
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2017/06/08/Hello-World-0/"/>
-    <id>http://yoursite.com/2017/06/08/Hello-World-0/</id>
+    <title>折腾到现在的第一篇……</title>
+    <link href="http://yoursite.com/2017/06/08/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>http://yoursite.com/2017/06/08/第一篇文章/</id>
     <published>2017-06-08T01:24:16.000Z</published>
-    <updated>2017-06-08T02:05:53.059Z</updated>
+    <updated>2017-06-08T14:43:14.536Z</updated>
     
-    <content type="html"><![CDATA[<p>It is said that a personal blog should be built. Well, gradually improve it!</p>
+    <content type="html"><![CDATA[<p>这个个人主页现在还是极度不完善的，要说为什么会诞生出来这样的东西，那一定是没想好要做什么的时候被人推了一把吧。现在初步有了个框架，那么下面就谈谈可以做什么的问题吧。</p>
+<p>可以做什么：<br>1、个人创作<br>观察自己很久之后确定，我确实不是一个很能学术的人。写不出论文，大概只能写读后感；写不出小说、剧本，大概只能写诗、写歌词，最多写散文。<br>所以个人创作大致会限定在诗歌和歌词的范围内，受众有限但喜欢就好吧~</p>
+<p>2、生活所感<br>上一点也提到过，我大致能写一点读后感。但是跳出来讲，“感”没有必要限定在读了什么、观看了什么吧，生活本来就有很多可以“感”的存在。<br>所以呢，这部分会有一些作死的小日常、找不到笑点或者笑点很奇怪的东西、一些出于新奇感去尝试点APP之类的小评测小推荐，以及来源于一瞬间灵感的“实验”。多多少少还是很热爱生活的。</p>
+<p>3、合作关联<br>在个人主页之前我在构思的是个人公众号的规划，关于自己能做什么、想做什么、和想做点什么的朋友合作干点什么（比如合作做作业做PV（笑），也关于定位、系统化和进一步发展。能为自己做点什么其实真的十分幸福，积累着灵感并把它们变成可以看见的东西，初衷就是这样的。<br>所以个人主页还是会和公众号相连起到某种程度上的互补和互相促进的效果。</p>
+<p>那么，慢慢完善好好加油吧。</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;It is said that a personal blog should be built. Well, gradually improve it!&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2017/06/08/hello-world/"/>
-    <id>http://yoursite.com/2017/06/08/hello-world/</id>
-    <published>2017-06-07T23:20:35.684Z</published>
-    <updated>2017-06-07T23:20:35.684Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;p&gt;这个个人主页现在还是极度不完善的，要说为什么会诞生出来这样的东西，那一定是没想好要做什么的时候被人推了一把吧。现在初步有了个框架，那么下面就谈谈可以做什么的问题吧。&lt;/p&gt;
+&lt;p&gt;可以做什么：&lt;br&gt;1、个人创作&lt;br&gt;观察自己很久之后确定，我确实不是一个很能学术的人。写不
     
     </summary>
     
