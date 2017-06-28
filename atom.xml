@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-06-08T14:43:14.536Z</updated>
+  <updated>2017-06-28T04:17:43.046Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,82 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2017/06/28/%E5%85%85%E7%94%B5%E4%B9%8B%E6%97%85%E6%B5%B7%E6%8A%A5/"/>
+    <id>http://yoursite.com/2017/06/28/充电之旅海报/</id>
+    <published>2017-06-28T04:16:55.988Z</published>
+    <updated>2017-06-28T04:17:43.046Z</updated>
+    
+    <content type="html"><![CDATA[layout:false
+---
+
+<html>
+<head>
+<title>充电之旅海报</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- Save for Web Slices (充电之旅海报.psd) -->
+<table id="__01" width="1090" height="1192" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td colspan="3">
+			<img src="../充电之旅海报/images/充电之旅海报_01.gif" width="1090" height="239" alt=""></td>
+	</tr>
+	<tr>
+		<td rowspan="6">
+			<img src="../充电之旅海报/images/充电之旅海报_02.gif" width="100" height="953" alt=""></td>
+		<td>
+			<a href="http://lib.scnu.edu.cn/" target="_blank" rel="external">
+				<img src="../充电之旅海报/images/充电之旅海报_01-03.gif" width="890" height="233" border="0" alt=""></a></td>
+		<td rowspan="6">
+			<img src="../充电之旅海报/images/充电之旅海报_04.gif" width="100" height="953" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="../充电之旅海报/images/充电之旅海报_05.gif" width="890" height="30" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="http://cul.china.com.cn/book/node_519721.htm" target="_blank" rel="external">
+				<img src="../充电之旅海报/images/充电之旅海报_03.gif" width="890" height="163" border="0" alt=""></a></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="../充电之旅海报/images/充电之旅海报_07.gif" width="890" height="69" alt=""></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="http://book.chaoxing.com/search/all/%E8%BF%BD%E9%A3%8E%E7%AD%9D%E7%9A%84%E4%BA%BA/bookList1_.html" target="_blank" rel="external">
+				<img src="../充电之旅海报/images/充电之旅海报_04-08.gif" width="890" height="376" border="0" alt=""></a></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="../充电之旅海报/images/充电之旅海报_09.gif" width="890" height="82" alt=""></td>
+	</tr>
+</table>
+<!-- End Save for Web Slices -->
+</body>
+</html>
+]]></content>
+    
+    <summary type="html">
+    
+      layout:false
+---
+
+&lt;html&gt;
+&lt;head&gt;
+&lt;title&gt;充电之旅海报&lt;/title&gt;
+&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot;&gt;
+&lt;/head&gt;
+&lt;body bgco
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>折腾到现在的第一篇……</title>
